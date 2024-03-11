@@ -1,3 +1,3 @@
-<footer class = "container">
+<footer>
 	<p>&copy; WebMarket</p>
 </footer>

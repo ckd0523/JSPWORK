@@ -6,3 +6,5 @@
 1708328101532	Delete element
 1708328710729	Move 'welcome.jsp' to 'webapp'
 1708328721160	Rename resource 'welcome.jsp'
+1708570718608	Move 'css' to 'resources'
+1708570720796	Move 'images' to 'resources'

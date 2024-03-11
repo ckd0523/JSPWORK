@@ -4,11 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Action Tag</title>
 </head>
 <body>
 	<h3>이 파일은 first.jsp입니다.</h3>
-	<jsp:forward page="../ch03/second.jsp"/>
-	<p>=== first.jsp의 페이지===</p>
+	<jsp:include page="second.jsp">
+		<jsp:param name="date" value="<%= new java.util.Date() %>"/>
+	</jsp:include>
+	<p>Java Server Page</p>
 </body>
 </html>

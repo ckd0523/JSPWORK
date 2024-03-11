@@ -23,3 +23,5 @@
 0:0:0:0:0:0:0:1 - - [19/Feb/2024:17:22:13 +0900] "GET /JSPBook/ch04/first.jsp HTTP/1.1" 200 216
 0:0:0:0:0:0:0:1 - - [19/Feb/2024:17:23:21 +0900] "GET /JSPBook/ch04/forward.jsp HTTP/1.1" 200 192
 0:0:0:0:0:0:0:1 - - [19/Feb/2024:17:30:24 +0900] "GET /JSPBook/ch04/forward_date.jsp HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:17:46:56 +0900] "GET /JSPBook/ch04/first.jsp HTTP/1.1" 500 2730
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:17:51:06 +0900] "GET /JSPBook/ch04/include.jsp HTTP/1.1" 200 393
